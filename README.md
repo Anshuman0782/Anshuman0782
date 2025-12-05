@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://github.com/Anshuman0782)
+[![MasterHead](https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif)](https://github.com/Anshuman0782)
 
 # 💫 Hi 👋, I'm Anshuman Sarkar
 <img align="right" alt="Coding" width="400" src="https://corizo.in/wp-content/uploads/2024/11/UI-Developer.gif">
