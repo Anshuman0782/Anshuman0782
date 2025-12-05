@@ -1,7 +1,6 @@
-[![MasterHead](https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif)](https://github.com/Anshuman0782)
 
 # 💫 Hi 👋, I'm Anshuman Sarkar
-<img align="right" alt="Coding" width="400" src="https://corizo.in/wp-content/uploads/2024/11/UI-Developer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://corizo.in/wp-content/uploads/2024/11/UI-Developer.gif"> -->
 
 **MERN Stack Developer || AI & ML Explorer || Computer Science Postgraduate**
 
