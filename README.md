@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=950&lines=ANSHUMAN+SARKAR;AI+ML+ENGINEER;FULL+STACK+MERN+DEVELOPER;BUILDING+INTELLIGENT+AI+SYSTEMS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=950&lines=ANSHUMAN+SARKAR;AI+%2F+ML+ENGINEER;AGENTIC+AI+DEVELOPER;FULL+STACK+MERN+DEVELOPER;BUILDING+INTELLIGENT+AI+SYSTEMS" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=260&section=header&text=ANSHUMAN%20SARKAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Agentic%20Systems%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=260&section=header&text=ANSHUMAN%20SARKAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 
 </div>
 
