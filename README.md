@@ -1,28 +1,39 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=ANSHUMAN+SARKAR;AI+%2F+ML+ENGINEER;AGENTIC+AI+DEVELOPER;FULL+STACK+MERN+DEVELOPER;BUILDING+INTELLIGENT+SYSTEMS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=950&lines=ANSHUMAN+SARKAR;AI+%2F+ML+ENGINEER;AGENTIC+AI+DEVELOPER;FULL+STACK+MERN+DEVELOPER;BUILDING+INTELLIGENT+AI+SYSTEMS" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=RepoMind%20Architect&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=260&section=header&text=ANSHUMAN%20SARKAR&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Agentic%20Systems%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 
 </div>
 
 ---
 
-# ⚡ SYSTEM STATUS
+<div align="center">
+
+# ⚡ AI SYSTEM TERMINAL ⚡
+
+</div>
 
 ```yaml
 Name: Anshuman Sarkar
-Role: AI/ML Engineer + MERN Stack Developer
 
-Focus:
-  - Agentic AI
-  - RAG Systems
-  - LangGraph Workflows
-  - LLM Applications
-  - Full Stack AI Platforms
+Role:
+  - AI/ML Engineer
+  - Agentic AI Developer
+  - Full Stack MERN Developer
 
-Current Mission:
-  Building intelligent GitHub automation systems
+Currently Building:
+  - RepoMind
+  - AI Workflow Automation
+  - Multi-Agent AI Systems
+  - RAG Infrastructure
+
+Tech Interests:
+  - LLM Engineering
+  - LangGraph
+  - AI Agents
+  - Vector Databases
+  - AI Infrastructure
 ```
 
 ---
@@ -30,20 +41,20 @@ Current Mission:
 # 🧠 ABOUT ME
 
 ```bash
-> Pursuing M.Sc. in Computer Science
-> Building Agentic AI Systems
-> Creating RAG + Multi-Agent Platforms
-> Passionate about LLM Engineering
-> Exploring AI Infrastructure + Automation
+> M.Sc. Computer Science Student
+> Building scalable AI systems
+> Creating intelligent agent workflows
+> Exploring autonomous AI architectures
+> Passionate about software engineering + GenAI
 ```
 
 ---
 
-# 🚀 TECH ARSENAL
+# 🚀 TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,react,nextjs,nodejs,express,mongodb,mysql,docker,aws,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,docker,aws,git,github,vscode,postman" />
 
 </div>
 
@@ -58,18 +69,18 @@ Current Mission:
 ![RAG](https://img.shields.io/badge/RAG-Pipeline-purple?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-Applications-red?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-black?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-AI-orange?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-black?style=for-the-badge)
 
 </div>
 
 ---
 
-# 📊 LIVE GITHUB MATRIX
+# 📊 LIVE GITHUB STATS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anshuman0782&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anshuman0782&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman0782&theme=tokyonight&hide_border=true&background=00000000" />
 
@@ -87,21 +98,21 @@ Current Mission:
 
 ---
 
-# 🏆 GITHUB TROPHIES
+# 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anshuman0782&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anshuman0782&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 
 </div>
 
 ---
 
-# 🔥 TOP LANGUAGES
+# 🔥 MOST USED LANGUAGES
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman0782&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman0782&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -116,14 +127,14 @@ Current Mission:
 
 <h2>🧠 RepoMind</h2>
 
-AI-powered repository intelligence platform featuring:
+AI-powered repository intelligence system featuring:
 
-- LangGraph
-- RAG Pipelines
-- ChromaDB
-- Multi-Agent Systems
+- Multi-Agent Architecture
+- LangGraph Workflows
 - Semantic Code Search
-- AI Workflow Automation
+- RAG Pipelines
+- ChromaDB Integration
+- Intelligent GitHub Automation
 
 </td>
 
@@ -131,13 +142,13 @@ AI-powered repository intelligence platform featuring:
 
 <h2>⚛ Quantum Cryptanalysis Lab</h2>
 
-Quantum security simulation platform featuring:
+Quantum cryptography simulation platform featuring:
 
-- RSA attack simulations
+- RSA Attack Simulation
 - Shor’s Algorithm
-- Qiskit
-- React + Python Integration
+- Qiskit Integration
 - Quantum Visualization
+- React + Python Architecture
 
 </td>
 
@@ -152,22 +163,32 @@ Quantum security simulation platform featuring:
 class AnshumanSarkar:
 
     def __init__(self):
-        self.learning = [
-            "Advanced Agentic AI",
-            "Multi-Agent Systems",
+        self.focus = [
+            "Agentic AI",
             "AI Infrastructure",
+            "Distributed Systems",
             "Vector Databases",
-            "LLM Orchestration",
-            "System Design"
+            "Advanced RAG",
+            "Multi-Agent Architectures"
         ]
 
-    def life_goal(self):
-        return "Build intelligent autonomous AI systems"
+    def mission(self):
+        return "Building autonomous intelligent systems"
 
 me = AnshumanSarkar()
 
-print(me.life_goal())
+print(me.mission())
 ```
+
+---
+
+# ⚡ REAL-TIME CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Anshuman0782/Anshuman0782/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
 
 ---
 
@@ -179,7 +200,7 @@ print(me.life_goal())
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/">
+<a href="https://linkedin.com/in/your-linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -191,11 +212,11 @@ print(me.life_goal())
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 👀 PROFILE VISITORS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://komarev.com/ghpvc/?username=Anshuman0782&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 
 </div>
 
@@ -203,10 +224,6 @@ print(me.life_goal())
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Anshuman0782&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=140&section=footer"/>
 
 </div>
