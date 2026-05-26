@@ -208,12 +208,20 @@ print(me.mission())
 
 <div align="center">
 
-<a href="https://github.com/Anshuman0782">
+<a href="https://github.com/Anshuman0782" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/anshuman-sarkar-906994307/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/sarkar97711" target="_blank">
+<img src="https://img.shields.io/badge/Twitter(X)-111111?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://anshuman-sarkar.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:anshumansarkar700@gmail.com">
